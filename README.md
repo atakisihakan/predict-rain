@@ -20,7 +20,7 @@ For model interpretability, the following tools are utilized:
 - SHAP values (SHapley Additive exPlanations)
 
 \
-**SELECT FIGURES**
+**HIGHLIGHTS**
 <img src="Figures/missing_values_overview.jpg">
 <img src="Figures/correlation_matrix.jpg">
 <img src="Figures/predictive_power_score.jpg">
